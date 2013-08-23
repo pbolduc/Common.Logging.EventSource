@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Common.Logging.EventSource</id>
+    <version>1.0.0</version>
+    <title>Common.Logging.EventSource</title>
+    <description>Logging adapter for writing Common.Logging logs to Windows Event Tracing for Windows (ETW)</description>
+    <authors>Phil Bolduc</authors>
+    <language>en-US</language>
+    <projectUrl>https://github.com/pbolduc/Common.Logging.EventSource</projectUrl>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <tags>ETW,logging,EventSource</tags>
+
+    <dependencies>
+      <dependency id="Common.Logging" version="2.1.2" />
+      <dependency id="EventSourceProxy" version="1.1.2" />
+      <dependency id="Newtonsoft.Json" version="5.0.6" />
+    </dependencies>
+  </metadata>
+  
+</package>
