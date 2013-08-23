@@ -1,6 +1,8 @@
 Common.Logging.EventSource
 =========================
 
+[Common.Logging.EventSource on NuGet](https://www.nuget.org/packages/Common.Logging.EventSource/)
+
 Provides a Common.Logging logging adapter to redirect log messages to ETW.
 In conjunction with Semantic Logging block, events can be written to Azure
 storage.
