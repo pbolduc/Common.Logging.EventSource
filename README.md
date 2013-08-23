@@ -8,6 +8,7 @@ In conjunction with Semantic Logging block, events can be written to Azure
 storage.
 
 **Event Source Name**: Common-Logging
+
 **Event Source Guid**: dab0da4f-7fc0-42dc-bbcd-2275412951d1
 
 
