@@ -54,3 +54,5 @@ To Do
 -----
 * allow inclusion/exclusion of specific logger names
 * allow restricting the logging level at the event source (ie avoid Debug/Trace level events from ever reaching ETW) globally or for specific loggers.  Common Logging and ETW take different approaches to who is responsible for setting the log level, however, this could be a valuable feature.
+* add unit tests
+* add sample applications
