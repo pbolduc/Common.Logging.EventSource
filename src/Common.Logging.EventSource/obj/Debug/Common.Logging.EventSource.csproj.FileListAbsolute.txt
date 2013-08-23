@@ -1,0 +1,9 @@
+c:\users\pbolduc\documents\visual studio 2012\Projects\Common.Logging.EventSource\Common.Logging.EventSource\obj\Debug\Common.Logging.EventSource.csprojResolveAssemblyReference.cache
+c:\users\pbolduc\documents\visual studio 2012\Projects\Common.Logging.EventSource\Common.Logging.EventSource\bin\Debug\Common.Logging.EventSource.dll
+c:\users\pbolduc\documents\visual studio 2012\Projects\Common.Logging.EventSource\Common.Logging.EventSource\bin\Debug\Common.Logging.EventSource.pdb
+c:\users\pbolduc\documents\visual studio 2012\Projects\Common.Logging.EventSource\Common.Logging.EventSource\bin\Debug\Common.Logging.dll
+c:\users\pbolduc\documents\visual studio 2012\Projects\Common.Logging.EventSource\Common.Logging.EventSource\bin\Debug\EventSourceProxy.dll
+c:\users\pbolduc\documents\visual studio 2012\Projects\Common.Logging.EventSource\Common.Logging.EventSource\bin\Debug\Common.Logging.pdb
+c:\users\pbolduc\documents\visual studio 2012\Projects\Common.Logging.EventSource\Common.Logging.EventSource\bin\Debug\Common.Logging.xml
+c:\users\pbolduc\documents\visual studio 2012\Projects\Common.Logging.EventSource\Common.Logging.EventSource\obj\Debug\Common.Logging.EventSource.dll
+c:\users\pbolduc\documents\visual studio 2012\Projects\Common.Logging.EventSource\Common.Logging.EventSource\obj\Debug\Common.Logging.EventSource.pdb
